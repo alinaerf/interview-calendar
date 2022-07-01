@@ -1,5 +1,5 @@
 # Interview-Calendar 
-Calendar replica with functionality of adding task time, deleting tasks, and browsing the weekly calendar.
+Calendar with functionality of adding task time, deleting tasks, and browsing the weekly calendar.
 
 
 
